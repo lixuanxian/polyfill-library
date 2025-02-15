@@ -3,6 +3,8 @@
 
 > NodeJS module to create polyfill bundles tailored to individual user-agents
 
+> Notice : not include ["Intl","TypedArray.prototype.toLocaleString"]
+
 ## Install
 
 ```bash

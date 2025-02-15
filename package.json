@@ -1,5 +1,5 @@
 {
-  "name": "polyfill-library",
+  "name": "polyfill-library-none-intl",
   "version": "4.8.0",
   "description": "A polyfill combinator",
   "main": "lib/index.js",
@@ -44,6 +44,9 @@
   "license": "MIT",
   "engines": {
     "node": ">=12"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "files": [
     "/CHANGELOG.md",
